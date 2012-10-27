@@ -19,10 +19,31 @@ namespace WpfTest
     /// </summary>
     public partial class MainWindow : Window
     {
+        int i = 1;
+
         public MainWindow()
         {
+            
             InitializeComponent();
             //test
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+
+
+            MessageBox.Show("You pressed the button: " + i.ToString() + " times.");
+            
+
+            label1.Content = "Test: " + i.ToString() + ".";                //dysplays text in label
+            i++;
+
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            textBox2.Text = textBox1.Text;
+
         }
     }
 }
