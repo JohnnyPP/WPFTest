@@ -1,0 +1,13 @@
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\MainWindow.baml
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\MainWindow.g.cs
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\App.g.cs
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\WpfTest_MarkupCompile.cache
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\WpfTest.g.resources
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\WpfTest.Properties.Resources.resources
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\WpfTest.exe
+c:\users\kolan\documents\visual studio 2010\Projects\WpfTest\WpfTest\obj\x86\Debug\WpfTest.pdb
